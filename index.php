@@ -1,4 +1,4 @@
-How're you doin?
+How you doin?
 <br />
 
 <pre>
